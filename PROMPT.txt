@@ -1,0 +1,1 @@
+Build a tiny browser arcade game in a single HTML file: a neon Snake game on canvas — arrow keys and on-screen touch buttons, score, speed increases as you eat, game over screen with restart. Dark background, glowing snake. No libraries, no network.
